@@ -7,6 +7,7 @@ homme-femme dans le domaine professionnel dans une entreprise qui compte 256 sal
 **Mission**: 
 
 -Récolter, traiter, nettoyer des données en respectant le RGPD (Réglement Générale de Protection des Données).
+
 -Utiliser la platforme low code KNIME Analytics pour réaliser le workflow.
 
 **Compétences**: 
