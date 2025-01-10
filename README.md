@@ -12,3 +12,7 @@ homme-femme dans le domaine professionnel dans une entreprise qui compte 256 sal
 
 **Compétences**: 
 
+-Traitement des données en respect du RGPD.
+
+-Se familiariser avec les platformes low code d'analyse de données notamment KNIME.  
+
